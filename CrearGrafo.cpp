@@ -3,6 +3,8 @@
 #include <iostream>
 #include <vector>
 
+using namespace std;
+
 int main(){
     int n; // n es el número de vértices
     int m; // m es el número de aristas 
